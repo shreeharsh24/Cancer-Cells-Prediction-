@@ -133,8 +133,8 @@ Training and validation curves are plotted using **Matplotlib**.
 
 **Shree Harsh**
 🎓 Jain University
-📧 [[your_email@example.com](mailto:your_email@example.com)]
-📦 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+
 
 ---
 
